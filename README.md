@@ -1,5 +1,5 @@
 # About Me:
-As an AI/Generative AI/ML Engineer, I bring experience in building and optimizing scalable AI solutions across various domains, including machine learning, NLP, and multimodal AI systems. With expertise in AI infrastructure, cloud-based solutions, and advanced data processing, I specialize in developing high-performing models and integrating them into real-world applications. 
+As an AI/ML/GenAI/Robotics Engineer, and Autonomous Driving I bring experience in building and optimizing scalable, high-performance systems that power autonomous agents and intelligent AI and robotic solution across various domains, including machine learning, NLP, and multimodal AI systems, and robotics.
 
 
 ## 🌐 Socials:
