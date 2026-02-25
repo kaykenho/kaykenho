@@ -1,5 +1,7 @@
 # About Me:
-As an AI/ML/GenAI/Robotics Engineer, and Autonomous Driving I bring experience in building and optimizing scalable, high-performance systems that power autonomous agents and intelligent AI and robotic solution across various domains, including machine learning, NLP, and multimodal AI systems, and robotics.
+Enterprise AI Security and Risk Professional with technical expertise in Cloud and AI systems, specializing in Generative AI governance, RAG architectures, and autonomous/multi-agent platforms under stringent regulatory and business constraints. Developed and published the 'AGAQ™ - The AI Governance Aquarium Framework™, a strategic baseline for evaluating multi-agent orchestration and institutional risk posture.
+
+Proven experience in defining risk boundaries, architectural guidelines, and acceptance criteria that enable AI innovation at scale while minimizing legal, financial, and operational exposure. A reliable bridge between engineering, legal, and executive leadership, translating AI, privacy, and security risks into concrete business decisions, implementation planning, and long-term risk posture.
 
 
 ## 🌐 Socials:
